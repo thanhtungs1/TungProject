@@ -1,0 +1,5 @@
+Parameter,Parameter Fields,Parameter Order
+"Total Revenue","'Calculations'[Total Revenue]",0
+"Total COGS","'Calculations'[Total COGS]",1
+"Quantity Sold","'Calculations'[Quantity Sold]",2
+"Profit","'Calculations'[Profit]",3
